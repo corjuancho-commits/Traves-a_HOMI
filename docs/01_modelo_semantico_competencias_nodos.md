@@ -17,7 +17,7 @@ Cada objeto tiene un significado diferente y no debe intercambiarse con otro.
 Capacidad amplia cuyo dominio inicial HOMI considera necesario para un ejercicio seguro del rol. Describe una capacidad de la persona, no una capacitación.
 
 ### Nodo
-Unidad funcional que compone una competencia. Debe ser suficientemente concreta para definir qué desempeño debe desarrollarse, qué experiencias lo favorecen y cómo se demuestra.
+Unidad funcional mínima que compone una competencia. Debe ser suficientemente concreta para definir qué desempeño debe desarrollarse, qué experiencias lo favorecen y cómo se demuestra.
 
 Un nodo **no es** un servicio, un curso, una charla, un recurso ni necesariamente una EPA.
 
@@ -60,7 +60,7 @@ Este listado es una hipótesis estructurada y debe contrastarse con lineamientos
 
 Cada nodo debe clasificarse por una naturaleza predominante y, cuando sea necesario, una secundaria:
 
-- **Conceptual-decisional:** comprender información y usarla para decidir.
+- **Conceptual-decisional:** comprender información y se usa para decidir.
 - **Perceptivo-reconocedora:** identificar, discriminar y reconocer señales relevantes.
 - **Procedimental-psicomotora:** ejecutar físicamente una secuencia con precisión y seguridad.
 - **Operativo-sistémica:** desenvolverse correctamente dentro de procesos y sistemas institucionales.
@@ -103,10 +103,10 @@ Todo nodo debe disponer, progresivamente, de:
 - consecuencia del error;
 - experiencias requeridas;
 - ambientes posibles;
-- función de simulación;
+- función en simulación;
 - evidencia;
 - criterio de logro;
-- recuperación/espaciamiento;
+- recuperación de la información/espaciamiento;
 - continuidad durante los turnos;
 - posibles EPA relacionadas.
 
