@@ -6,7 +6,7 @@
 
 ## 1. Propósito
 
-TravesíaHOMI es un sistema de entrenamiento al rol orientado a que el personal de enfermería nuevo transite desde el ingreso institucional hasta una autonomía progresiva y segura. Integra preparación inicial, experiencias de aprendizaje distribuidas, práctica clínica supervisada, seguimiento y trazabilidad.
+TravesíaHOMI es un sistema de orquestación de entrenamiento al rol de enfermería orientado a que el personal nuevo transite desde el ingreso institucional hasta una autonomía progresiva y segura. Integra preparación inicial, experiencias de aprendizaje distribuidas, práctica clínica supervisada, seguimiento y trazabilidad.
 
 El sistema no pretende enseñar todas las competencias profesionales de enfermería. Su alcance es más preciso: **identificar y desarrollar las capacidades críticas que HOMI no debería permitir que un colaborador ejerza con autonomía sin haberlas comprendido, practicado o demostrado en el contexto institucional**.
 
